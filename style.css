@@ -184,3 +184,8 @@ display: block;
         .all{
             background-color: #002d3d;
         }
+        .footer{
+            color: white;
+            background-color: #002d3d;
+            display: flex;
+        }
