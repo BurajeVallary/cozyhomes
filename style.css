@@ -118,14 +118,14 @@
         display: block;
         padding: 10px 1px;
     
-    }
-    .insideform{
+    /* }
+    /* .insideform{
         background-color: #ffac7d;
         border-radius: 10%;
         width: 50%;
         height: 70%;
-        text-align: left;
-    }
+        text-align: left; */
+    } */
     .pop{
 color: #ffac7d;
 text-align: end;
@@ -188,4 +188,21 @@ display: block;
             color: white;
             background-color: #002d3d;
             display: flex;
+
+        }
+        .need{
+            display: flex;
+            gap: 100px;
+            align-items: center;
+            background-color: #ffe5dc;
+        }
+        .email{
+            text-align: center;
+        }
+
+        .inspire{
+            background-color: #ffe5dc;
+        }
+        .exploreall{
+            color: #ffe5dc;
         }
