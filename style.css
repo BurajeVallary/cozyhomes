@@ -157,6 +157,7 @@ display: block;
     }
     .Insipration{
         background-color: #ffe5dc;
+        width: 20px;
 
     }
     .our{
@@ -205,4 +206,55 @@ display: block;
         }
         .exploreall{
             color: #ffe5dc;
+        }
+        .round{
+            border: solid;
+            border-radius: 50%;
+            width: 300px;
+            height: 300px;
+            padding: 30px;
+            text-align: center;
+            background-color: #ffe5dc;
+        }
+        .plantpot{
+            width: 600px;
+            height: 200px;  
+        }
+        .kitchen{
+            width: 250px;
+            height: 250px;
+            margin-left: 10%;
+            
+            
+        }
+        .pave{
+            width: 250px;
+            height: 250px;
+            margin-left: 10%;
+           
+        }
+        .stairs{
+            width: 250px;
+            height: 250px;
+            margin-left: 10%;
+            
+           
+        }
+        .nav ul li{
+            padding: 20px 150px 20px;
+            list-style-type: none;
+            justify-content: right;
+            display: inline-block;
+
+        }
+        .Pics{
+            padding: 20px 150px 20px;
+            list-style-type: none;
+            justify-content: right;
+            display: inline-block;
+            display: flex;
+        } 
+        .modern{
+            background-color:#ffe5dc;
+            border-radius: 2px;
         }
