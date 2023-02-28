@@ -1,0 +1,160 @@
+.coach{
+    background-image: url("car.jpeg");
+    background-repeat: no-repeat;
+    margin: 0%;
+    height: 500px;
+    background-size: 100%;
+    overflow: none;
+    background-position: center;
+}
+.content{
+    background-color: rgba(0,0,0,.6);
+    height: 500px;
+}
+
+
+.bar{
+    background-color: white;
+    height: 50 px;
+    overflow: hidden;
+    float:left;
+}
+.dream{
+    margin: 0 auto;
+    padding-top: 0%;
+    text-align: center;
+    color: #ffac7d;
+    }
+    .explore{
+    
+            margin: 0 auto;
+            text-align: center;
+            color: #ffac7d;
+    }
+    .button{
+        background-color: orange;
+        
+    }
+    #coz{
+        display: inline-flex;
+        font-size: larger;
+        color: white;
+    }
+    #Home{
+        color:#ffac7d;
+    }
+    .bars{
+        display: inline-flex;
+        list-style: none;
+        overflow: auto;
+        padding-left: 60%;
+        margin-left: 0%;
+        padding: 30px 20px 0px 200px;
+    }
+    .bars a{float: left;
+        padding: 12px;
+        color: black;
+        color: #ffac7d;
+
+    }
+    #mod{
+        border-radius: 1px;
+    }
+    #class{
+        display: flex;
+    }
+.kitchen{
+    display: flex;
+
+}
+.ton{
+    background-color: orange;
+    padding-bottom: 0px;
+    text-align: center;
+    display: flex;
+    margin:0 auto;
+    
+    }
+    .popular{
+        display: flex;
+        background-color: #002d3d;
+    }
+    .all{
+        background-color: orange;
+        text-align: center;
+        color: black;
+        margin:0 auto;
+        display: flex;
+    }
+    .Insipration{
+        background-color: #ffe5dc;
+        display: flex;
+    }
+    .plantpot{
+        display: flex;
+        width: 200px;
+        height: 200px;
+        justify-content: end;
+        float: right;
+    }
+    .Gone{
+        background-color: orange;
+       border-radius: 2%;
+    }
+    .last{
+        background-color: #002d3d;
+        
+    }
+    #finalcozy{
+        display: inline-flex;
+        font-size: larger;
+        color:black;
+    }
+    .final{
+        display: flex;
+        display: inline flex;
+    }
+    .blog a{
+        display: block;
+        padding: 10px 1px;
+    
+    }
+    .insideform{
+        background-color: #ffac7d;
+        border-radius: 10%;
+        width: 50%;
+        height: 70%;
+        text-align: left;
+    }
+    .pop{
+color: #ffac7d;
+text-align: end;
+display: block;
+    }
+    .image1{
+        width: 70%;
+        height: 70%
+        
+    }
+    .image2{
+        width: 70%;
+        height: 70%
+        
+    }
+    .image3{
+        width: 70%;
+        height: 70%
+        
+    }
+    .ul{
+        display: flex;
+
+    }
+    .des{
+        text-align: center;
+        color: #ffe5dc;
+    }
+    .Insipration{
+        background-color: #ffe5dc;
+
+    }
