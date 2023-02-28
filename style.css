@@ -148,6 +148,7 @@ display: block;
     }
     .ul{
         display: flex;
+        list-style-type: none;
 
     }
     .des{
@@ -158,3 +159,28 @@ display: block;
         background-color: #ffe5dc;
 
     }
+    .our{
+        text-align: center;
+    }
+    li{
+        display: flex;
+        list-style: none;
+        display: inline-block;
+        
+    }
+    .lastpage{
+        background-color: #002d3d;
+        color: white;
+    }
+    .ABT ul li {
+        content: white;
+        display: flex;
+
+    }
+    .feed ul li {
+        content: white;
+        display: flex
+        }
+        .all{
+            background-color: #002d3d;
+        }
