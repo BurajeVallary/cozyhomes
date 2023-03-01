@@ -16,14 +16,17 @@
 .bar{
     background-color: white;
     height: 50 px;
-    overflow: hidden;
-    float:left;
+    margin: 0 auto;
+    display: flex;
+    display: inline
+    
+
 }
 .dream{
     margin: 0 auto;
     padding-top: 0%;
     text-align: center;
-    color: #ffac7d;
+    color:#ffe5dc;
     }
     .explore{
     
@@ -283,7 +286,38 @@ display: block;
         .icons{
             color: white;
         }
+        .per{
+            margin-left: 10%;
+            width: 1%; 
+        }
+        .search{
+            width: 800px;
+            height: 50px;
+            text-align: left;
+            color:lightslategray;
+            text-decoration-color: black;
+            background-color:#ffe5dc;
+            margin-left: 50%;
 
+        }
+        .bars ul li{
+            list-style-type: none;
+            justify-content: right;
+            display: inline-block;
+            display: flex;
+            justify-content: space-between;
+         
+
+        }
+        .bars li{
+            display: inline-block;
+            justify-content: space-between;
+            color: #ffac7d;
+            display: flex;
+            word-spacing: 2em;
+            word-spacing: normal;
+            
+        }
         
             
         
