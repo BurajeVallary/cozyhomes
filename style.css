@@ -268,7 +268,22 @@ display: block;
                 font-size: larger;
                 color: white;
         }
-        
+        .insta{
+            margin-right: 5%;
+            width: 10%;
+        }
+        .pin{
+            margin-right: 5%;
+            width: 10%;
+        }
+        .book{
+            margin-right: 5%;
+            width: 10%;
+        }
+        .icons{
+            color: white;
+        }
+
         
             
         
